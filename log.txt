@@ -204,3 +204,17 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Voltage & current sensor INA219 breakout to Voltage---current-sensor-INA219-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Fuel gauge BQ27441 breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main f048885] Updating open source files.
+ 1 file changed, 15 insertions(+)
+https://github.com/SolderedElectronics/Fuel-gauge-BQ27441-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Voltage & current sensor INA219 breakout/OUTPUTS/V1.0.0: all files are present, commiting...
+Voltage---current-sensor-INA219-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Voltage & current sensor INA219 breakout to Voltage---current-sensor-INA219-breakout-hardware-design
