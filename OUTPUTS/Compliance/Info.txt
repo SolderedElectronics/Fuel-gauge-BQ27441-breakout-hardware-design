@@ -2,4 +2,4 @@ SKU: 333065
 Full product name: Fuel gauge BQ27441 breakout
 Country of origin: Croatia
 HS tariff code: 85079090
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388670901
